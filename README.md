@@ -28,12 +28,19 @@ Repository structure
 
 Running the run_analysis.R script
 create a directory on your local machine where you would like to clone the repository
+
 change directory into what you created in #1
-clone this repository : git clone https://github.com/ranvir81chauhan/DataScience/master
+
+clone this repository : git clone https://github.com/ranvir81chauhan/DataScience/blob/master/README.md
+
 change directory into the GettingAndCleaningData directory
+
 start R from the command line
+
 source("run_analysis.R")
+
 How the, run_analysis.R script works
+
 Review the run_analysis.R script in the root of the cloned repository.
 
 This script is heavily commented and explains step-wise what is happening. DRY Principle (http://en.wikipedia.org/wiki/Don't_repeat_yourself)
