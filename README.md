@@ -29,7 +29,7 @@ Repository structure
 Running the run_analysis.R script
 create a directory on your local machine where you would like to clone the repository
 change directory into what you created in #1
-clone this repository : git clone https://github.com/dholtz/GettingAndCleaningData
+clone this repository : git clone https://github.com/ranvir81chauhan/DataScience/master
 change directory into the GettingAndCleaningData directory
 start R from the command line
 source("run_analysis.R")
